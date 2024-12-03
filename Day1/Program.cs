@@ -13,7 +13,7 @@ class Program
         int[] array2;
         try
         {
-            string filename = "day1.txt";
+            string filename = "input.txt";
             string filePath = Path.Combine(Directory.GetCurrentDirectory(),filename);
             
             if (!File.Exists(filePath)){
