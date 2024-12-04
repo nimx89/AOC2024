@@ -21,7 +21,8 @@ This repository contains my solutions for the **Advent of Code 2024**. Every yea
    ```bash
    git clone https://github.com/your-username/aoc2024-csharp.git
 2. Go to the desired Day
-3. Open Terminal and Run:
+3. Paste your own input in the *input.txt* file
+4. Open Terminal and Run:
    ```bash
    dotnet run
-4. Enjoy Learning!😉
+5. Enjoy Learning!😉
